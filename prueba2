@@ -1,2 +1,7 @@
-prueba2
-ola
+#prueba2
+#ola
+a=input("algo ")
+str="nk`"
+for e in str:    
+    e=chr(ord(e)+1)
+    print(e, end='')
